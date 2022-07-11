@@ -1,8 +1,3 @@
-// INI SC MASIH ADA BUG YA FIX IN AJA
-// BASE ILMANHDYT
-// SC ORI HYZER
-// CREATOR KRIZYN OFC
-// RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
 global.owner = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
@@ -10,7 +5,7 @@ global.mods = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = ''
+global.nameowner = 'Arif XZ'
 global.numberowner = '62895347198105' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/arifzyn19_' //ganti pakai Instagram mu
 global.github = 'https://github.com/RifXz19' //ganti aja pakai githubmu
@@ -90,7 +85,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': '3d628e301bbd3f59',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
