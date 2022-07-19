@@ -1,12 +1,12 @@
 
 //=============『 Utama 』================== //
-global.owner = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['62895347198105'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Arif XZ'
-global.numberowner = '62895347198105' //ganti pakai nomor mu
+global.nameowner = 'Putra XD'
+global.numberowner = '62887437369700','62895347198105' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/arifzyn19_' //ganti pakai Instagram mu
 global.github = 'https://github.com/RifXz19' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -19,7 +19,7 @@ global.pulsa = '089636219593' //ganti pakai nomor pulsa mu
 global.gopay = '089636219593' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙RifBotz⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = '❋ཻུ۪۪Putra botzz⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/Le5cW4YRzY81rH7FvHywK4' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi.
 global.webm = '"https://instagram.com/arifzyn19_"' //ganti pakai Instagram mu
@@ -39,10 +39,10 @@ global.fotonya8 = 'https://telegra.ph/file/7a5a91497a42b652f5ef9.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/0f4c17c7c70f3d90fb4c5.jpg' //ganti pakai poto payment atau apa
 global.lolkey = '42092e951066bf09423f6ade' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '2a840e963e' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪RIFBOTZ-𝕸𝕯 ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪PutraBotzz-𝕸𝕯 ❋ཻུ۪۪'
 global.watermark = wm
 global.wm2 = 'ᯤ「 RIFBOT-MD あ⁩ 」'
-global.wm3 = '↻RIFBOTZ-𝕸𝕯'
+global.wm3 = '↻PutraBotzz-𝕸𝕯'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
