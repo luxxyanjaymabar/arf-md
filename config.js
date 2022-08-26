@@ -1,30 +1,30 @@
 
 //=============『 Utama 』================== //
-global.owner = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['62887437369700'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6288210072756'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6288210072756'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6288210072756'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Putra XD'
-global.numberowner = '62887437369700','62895347198105' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/arifzyn19_' //ganti pakai Instagram mu
-global.github = 'https://github.com/RifXz19' //ganti aja pakai githubmu
+global.nameowner = 'LuxxyXyz'
+global.numberowner = '6288210072756' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com/luxxyxyz' //ganti pakai Instagram mu
+global.github = 'https://github.com/luxxyanjaymabar' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
 global.sc = '--' //jngn ganti hargai creator
 global.ss = '--' //jngn ganti hargai creator
 global.sss = '--' //jngn ganti hargai creator
-global.yt = 'https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw'
-global.dana = '0895347198105' //ganti pakai nomor dana mu
-global.pulsa = '089636219593' //ganti pakai nomor pulsa mu
-global.gopay = '089636219593' //ganti pakai nomor Gopay mu
+global.yt = '-'
+global.dana = '088210072756' //ganti pakai nomor dana mu
+global.pulsa = '088210072756' //ganti pakai nomor pulsa mu
+global.gopay = '088210072756' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪Putra botzz⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/Le5cW4YRzY81rH7FvHywK4' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCX9P1UQ5vaXEwB44EOqB8Uw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi.
-global.webm = '"https://instagram.com/arifzyn19_"' //ganti pakai Instagram mu
-global.saweria = '"https://saweria.co/aldashakila"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/62895347198105' //ganti jadi nomor mu
+global.namebot = '❋ཻུ۪۪LuccyBot⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.gc = 'https://chat.whatsapp.com/CIv0mTBUteK8zy7crxdOj7' //ganti pakai grup mu
+global.web = https://linktr.ee/luxxyxyz'' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi.
+global.webm = '"https://instagram.com/luxxyxyz"' //ganti pakai Instagram mu
+global.saweria = '"-"' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6288210072756' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -39,10 +39,10 @@ global.fotonya8 = 'https://telegra.ph/file/7a5a91497a42b652f5ef9.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/0f4c17c7c70f3d90fb4c5.jpg' //ganti pakai poto payment atau apa
 global.lolkey = '42092e951066bf09423f6ade' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '2a840e963e' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪PutraBotzz-𝕸𝕯 ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪LuccyBot-𝕸𝕯 ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ「 RIFBOT-MD あ⁩ 」'
-global.wm3 = '↻PutraBotzz-𝕸𝕯'
+global.wm2 = 'ᯤ「 LuccyBot-MD あ⁩ 」'
+global.wm3 = '↻LuccyBot-𝕸𝕯'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -52,8 +52,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Arif XD'
-global.author = '@Arifzyn'
+global.packname = 'LuccyBot'
+global.author = '@By LuxxyXyz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
