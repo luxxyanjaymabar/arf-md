@@ -4,9 +4,9 @@ let handler = async (m) => {
 let krizyn = `
 *––––––『 SOURCE CODE 』––––––*
 
-SC ORI : http://bit.ly/HyzerDev
+Chat Owner 
 
-SC : Itu Di Atas 
+SC : Baca Diatas
 
 Hehe
 
